@@ -1,0 +1,50 @@
+#titulo{
+    margin: auto;
+    display: block;
+} 
+
+h1{
+    text-align: center; /* colocar título no centro */
+    font-size: 70px; /* tamanho da fonte */
+    color: rgb(129, 10, 10); /* cor da fonte */
+    font-family: Verdana, Geneva, Tahoma, sans-serif; /* nome da fonte */
+}
+
+hr {
+    width: 50%; /* largura da linha */
+    height: 10px; /* altura da linha */
+    background: red; /* cor da linha no fundo */
+}
+
+p {
+    width: 50%; /* largura do paragrafo na tela */
+    color: rgb(255, 255, 255);
+    margin:auto /* alinhar texto no meio */
+}
+
+img {
+    width: 600px; /* largura da imagem */
+}
+
+.caixa{ /* class = mexer em objetos especifícos */
+    width: fit-content;
+    margin: auto;  
+}
+
+#vroblox{
+    width: 500px; /* largura do vídeo */
+    margin: auto;
+    display: block; /* como se o objeto estivesse dentro de uma div */
+    border-radius: 40px;
+}
+
+body{
+    background: linear-gradient(red, black);
+}
+
+
+
+
+
+
+
